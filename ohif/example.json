@@ -1,0 +1,1 @@
+{"transactionId": "JIP Dicoms", "studies": [{"studyInstanceUid": "testDICOMs", "patientName": "Jon Doe", "seriesList": [{"seriesInstanceUid": 1, "seriesDescription": "T2cor", "instances": [{"sopInstanceUid": 1, "rows": 1, "url": "http://192.168.99.100:31965/images/orders/4_admin/89c93c85c6764ab895c3a051a626cb58/upload/11878.dcm"}]}]}]}

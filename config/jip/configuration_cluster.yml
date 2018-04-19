@@ -1,0 +1,21 @@
+platform:
+  STATIC_PATH: '/data/static'
+  REPLACE_STR: '/data/'
+  JIP_URL: 'http://193.174.50.58:8000'
+  FILESERVER_URL: 'http://193.174.50.58:8010'
+  OHIF_URL: 'http://jip.dktk/ohif'
+  FAAS_URL: 'http://193.174.50.58:8012'
+  PROMETHEUS_URL: 'http://193.174.50.58:8013'
+  ADMIN_URL: 'http://193.174.50.58:8000'
+  POPEN_TIMEOUT: 2
+
+
+foods:
+    - Apple
+    - Orange
+    - Strawberry
+    - Mango
+languages:
+    perl: Elite
+    python: Elite
+    pascal: Lame
